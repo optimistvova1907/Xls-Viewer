@@ -214,4 +214,4 @@ XLS Viewer is offered as a full free version with all features and updates inclu
 - 💬 **[Community](https://www.softyne.com/about-us/)**
 
 ---
-**Last updated:** 2026-10-03 06:01:10 UTC
+**Last updated:** 2026-10-03 12:12:55 UTC
